@@ -27,7 +27,7 @@ AUTO_DEACTIVATE=true/false
 ```
 4. Запустить файл ```create_session.py``` для создания сессии и делайте все, что написано в терминале.   
 
-Есть другой бот по продаже звезд для него нужна верификация [Бот](https://github.com/tinechelovec/Funpay-Telegram-Stars)
+Есть другой бот по продаже звезд, для него нужна верификация [Бот](https://github.com/tinechelovec/Funpay-Telegram-Stars)
    
 По всем багам, вопросам и предложениям пишите в [Issues](https://github.com/tinechelovec/Funpay-Telegram-Stars/issues) или в [Telegram](https://t.me/tinechelovec)
 
