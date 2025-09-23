@@ -1,0 +1,1 @@
+# Funpay-Telegram-Stars-Without-KYC
