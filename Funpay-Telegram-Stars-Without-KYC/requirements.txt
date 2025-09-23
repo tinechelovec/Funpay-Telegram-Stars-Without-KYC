@@ -1,0 +1,6 @@
+pyrofork
+tgcrypto
+python-dotenv
+requests
+colorama
+qrcode
